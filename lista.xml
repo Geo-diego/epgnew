@@ -1,9 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <title>Thundercats</title>
-    <start>20:30</start>
-    <end>21:00</end>
-    <repeat>Monday, Tuesday, Wednesday, Thursday, Friday</repeat>
+  <channel id="1">
+    <display-name>Telered Costa Rica</display-name>
+  </channel>
+
+  <programme id="Telered Costa Rica">
     <channel>Telered Costa Rica</channel>
+    <title>Informativo</title>
+    <start>8:00pm</start>
+    <end>8:30pm</end>
   </programme>
+  <programme id="Telered Costa Rica">
+    <channel>Telered Costa Rica</channel>
+    <title>Informativo</title>
+    <start>8:30pm</start>
+    <end>9:30pm</end>
+  </programme>
+
 </tv>
