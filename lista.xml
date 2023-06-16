@@ -3,7 +3,6 @@
   <channel id="1">
     <display-name>Telered Costa Rica</display-name>
   </channel>
-
   <programme id="Telered Costa Rica">
     <channel>Telered Costa Rica</channel>
     <title>Informativo</title>
@@ -16,5 +15,4 @@
     <start>8:30pm</start>
     <end>9:30pm</end>
   </programme>
-
 </tv>
