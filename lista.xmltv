@@ -2,52 +2,49 @@
   <channel id="Telered Costa Rica">
     <display-name>Telered Costa Rica</display-name>
   </channel>
-  <programme channel="Telered Costa Rica" start="20230616120000 +0000" stop="20230616123000 +0000">
+    <programme channel="Telered Costa Rica">
     <title>Ulyses 31</title>
+    <start>20230616120000 -0500</start>
+    <end>20230616123000 -0500</end>
   </programme>
-  <programme channel="Telered Costa Rica" start="20230616123000 +0000" stop="20230616130000 +0000">
+    <programme channel="Telered Costa Rica">
     <title>Matinales Telered</title>
+    <start>20230616123000 -0500</start>
+    <end>20230616130000 -0500</end>
   </programme>
-  <programme channel="Telered Costa Rica" start="20230616130000 +0000" stop="20230616133000 +0000">
+    <programme channel="Telered Costa Rica">
     <title>He-man</title>
+    <start>20230616130000 -0500</start>
+    <end>20230616133000 -0500</end>
   </programme>
-  <programme channel="Telered Costa Rica" start="20230616133000 +0000" stop="20230616140000 +0000">
+    <programme channel="Telered Costa Rica">
     <title>Heidi</title>
+    <start>20230616133000 -0500</start>
+    <end>20230616140000 -0500</end>
   </programme>
-  <programme channel="Telered Costa Rica" start="20230616140000 +0000" stop="20230616150000 +0000">
+    <programme channel="Telered Costa Rica">
     <title>MacGyver</title>
+    <start>20230616140000 -0500</start>
+    <end>20230616150000 -0500</end>
   </programme>
-  <programme channel="Telered Costa Rica" start="20230616150000 +0000" stop="20230616160000 +0000">
+    <programme channel="Telered Costa Rica">
     <title>La casa de la pradera</title>
+    <start>20230616150000 -0500</start>
+    <end>20230616160000 -0500</end>
   </programme>
-  <programme channel="Telered Costa Rica" start="20230616160000 +0000" stop="20230616170000 +0000">
+    <programme channel="Telered Costa Rica">
     <title>CHIPs</title>
+    <start>20230616160000 -0500</start>
+    <end>20230616170000 -0500</end>
   </programme>
-  <programme channel="Telered Costa Rica" start="20230616170000 +0000" stop="20230616180000 +0000">
-    <title>Tarz·n</title>
+    <programme channel="Telered Costa Rica">
+    <title>Tarz√°n</title>
+    <start>20230616170000 -0500</start>
+    <end>20230616180000 -0500</end>
   </programme>
-  <programme channel="Telered Costa Rica" start="20230616180000 +0000" stop="20230616183000 +0000">
+    <programme channel="Telered Costa Rica">
     <title>Superamigos</title>
-  </programme>
-  <programme channel="Telered Costa Rica" start="20230616183000 +0000" stop="20230616190000 +0000">
-    <title>Thundercats</title>
-  </programme>
-  <programme channel="Telered Costa Rica" start="20230616190000 +0000" stop="20230616193000 +0000">
-    <title>Mazinger Z</title>
-  </programme>
-  <programme channel="Telered Costa Rica" start="20230616193000 +0000" stop="20230616200000 +0000">
-    <title>B·tman</title>
-  </programme>
-  <programme channel="Telered Costa Rica" start="20230616200000 +0000" stop="20230616210000 +0000">
-    <title>Informativo</title>
-  </programme>
-  <programme channel="Telered Costa Rica" start="20230616210000 +0000" stop="20230616220000 +0000">
-    <title>Salud</title>
-  </programme>
-  <programme channel="Telered Costa Rica" start="20230616220000 +0000" stop="20230616223000 +0000">
-    <title>The munsters</title>
-  </programme>
-  <programme channel="Telered Costa Rica" start="20230616223000 +0000" stop="20230616230000 +0000">
-    <title>El sargento preston</title>
+    <start>20230616180000 -0500</start>
+    <end>20230616183000 -0500</end>
   </programme>
 </tv>
