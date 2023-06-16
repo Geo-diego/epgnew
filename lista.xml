@@ -2,7 +2,6 @@
   <channel id="Telered Costa Rica">
     <display-name>Telered Costa Rica</display-name>
   </channel>
-
   <programme channel="Telered Costa Rica" start="20230616160000 +0000" stop="20230616170000 +0000">
     <title>CHIPS</title>
   </programme>
