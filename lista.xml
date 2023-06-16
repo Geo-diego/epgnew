@@ -1,10 +1,10 @@
-<tv generator-info-name="www.matthuisman.nz" generated-ts="1686598307">
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE tv SYSTEM "xmltv.dtd"><tv generator-info-name="www.matthuisman.nz" generated-ts="1686598307">
   <channel id="Telered Costa Rica">
     <display-name>Telered Costa Rica</display-name>
   </channel>
   <programme channel="Telered Costa Rica" repeats="daily" byday="*">
-    <title>Ulyses 31</title>
-    <start>08:00:00</start>
-    <stop>08:30:00</stop>
-  </programme>
+  <title>Salud</title>
+    <start>09:00:00</start>
+    <stop>09:30:00</stop>
+  </programme>  
 </tv>
