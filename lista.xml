@@ -1,9 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<tv>
-    <title>Thundercats</title>
-    <start>20:30</start>
-    <end>21:00</end>
-    <repeat>Monday, Tuesday, Wednesday, Thursday, Friday</repeat>
-    <channel>Telered Costa Rica</channel>
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE tv SYSTEM "xmltv.dtd"><tv generator-info-name="www.matthuisman.nz" generated-ts="1686598307">
+  <channel id="Telered Costa Rica">
+    <display-name>Telered Costa Rica</display-name>
+  </channel>
+<programme channel="Telered Costa Rica" start="20230616193000 +0000" stop="20230616200000 +0000">
+    <title>Bátman</title>
+  </programme>
+  <programme channel="Telered Costa Rica" start="20230616200000 +0000" stop="20230616210000 +0000">
+    <title>Informativo</title>
+  </programme>
+  <programme channel="Telered Costa Rica" start="20230616210000 +0000" stop="20230616220000 +0000">
+    <title>Salud</title>
+  </programme>
+  <programme channel="Telered Costa Rica" start="20230616220000 +0000" stop="20230616223000 +0000">
+    <title>The munsters</title>
+  </programme>
+  <programme channel="Telered Costa Rica" start="20230616223000 +0000" stop="20230616230000 +0000">
+    <title>El sargento preston</title>
   </programme>
 </tv>
