@@ -1,9 +1,12 @@
-<tv>
+<?xml version="1.0" encoding="UTF-8"?>
+</tv>
   <channel id="Telered Costa Rica">
     <display-name>Telered Costa Rica</display-name>
   </channel>
-    <programme start="18:30:00 -0500" stop="19:00:00 -0500" channel="Telered Costa Rica">
-    <title>He-Man</title>
-    <repeat weekday="1,2,3,4,5"/>
+  <programme>
+    <title>Thundercats</title>
+    <start>18:30</start>
+    <end>19:00</end>
+    <repeat>Monday, Tuesday, Wednesday, Thursday, Friday</repeat>
   </programme>
 </tv>
