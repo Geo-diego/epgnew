@@ -2,7 +2,7 @@
   <channel id="Telered Costa Rica">
     <display-name>Telered Costa Rica</display-name>
   </channel>
-<programme channel="Telered Costa Rica" start="20230616193000 +0000" stop="20230616200000 +0000">
+  <programme channel="Telered Costa Rica" start="20230616193000 +0000" stop="20230616200000 +0000">
     <title>Bátman</title>
   </programme>
   <programme channel="Telered Costa Rica" start="20230616200000 +0000" stop="20230616210000 +0000">
