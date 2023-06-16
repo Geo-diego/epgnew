@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+  <channel id="Telered Costa Rica">
+    <display-name>Telered Costa Rica</display-name>
+    <country>Costa Rica</country>
+    <icon>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Telered_logo.svg/300px-Telered_logo.svg.png</icon>
+    <url>http://www.telered.cr/</url>
+    <programmes>
+      <programme start="2023-06-16T16:00:00" stop="2023-06-16T16:30:00">
+        <title>Noticias Telered</title>
+        <description>Noticiero matutino</description>
+      </programme>
+      <programme start="2023-06-16T16:30:00" stop="2023-06-16T17:00:00">
+        <title>El Deportivo</title>
+        <description>Programa deportivo</description>
+      </programme>
+      <programme start="2023-06-16T17:00:00" stop="2023-06-16T17:30:00">
+        <title>El Show de la Tarde</title>
+        <description>Programa de variedades</description>
+      </programme>
+      <programme start="2023-06-16T18:30:00" stop="2023-06-16T18:00:00">
+        <title>Telered Informa</title>
+        <description>Noticiero de la tarde</description>
+      </programme>
+    </programmes>
+  </channel>
+</tv>
