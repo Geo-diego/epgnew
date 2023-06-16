@@ -1,27 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<tv>
-  <channel id="Telered Costa Rica">
-    <display-name>Telered Costa Rica</display-name>
-    <country>Costa Rica</country>
-    <icon>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Telered_logo.svg/300px-Telered_logo.svg.png</icon>
-    <url>http://www.telered.cr/</url>
-    <programmes>
-      <programme start="2023-06-16T16:00:00" stop="2023-06-16T16:30:00">
-        <title>Noticias Telered</title>
-        <description>Noticiero matutino</description>
-      </programme>
-      <programme start="2023-06-16T16:30:00" stop="2023-06-16T17:00:00">
-        <title>El Deportivo</title>
-        <description>Programa deportivo</description>
-      </programme>
-      <programme start="2023-06-16T17:00:00" stop="2023-06-16T17:30:00">
-        <title>El Show de la Tarde</title>
-        <description>Programa de variedades</description>
-      </programme>
-      <programme start="2023-06-16T18:30:00" stop="2023-06-16T18:00:00">
-        <title>Telered Informa</title>
-        <description>Noticiero de la tarde</description>
-      </programme>
-    </programmes>
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE tv SYSTEM "xmltv.dtd"><tv generator-info-name="www.matthuisman.nz" generated-ts="1686598307">
+  <channel id="5dcb62e63d4d8f0009f36881">
+    <display-name>Pluto TV Cine Acción</display-name>
+    <icon src="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png"/>
   </channel>
+     <title>Hidden agenda</title>
+    <episode-num system="original-air-date">19991102000000 +0000</episode-num>
+    <desc>Un joven estudiante de medicina viaja a Berlín para investigar el aparente fallecimiento de su hermano y descubre una vida secreta de espionaje, traición y asesinato en los más altos niveles.</desc>
+    <icon src="https://images.pluto.tv/episodes/5fa45f456492fa001d0275a1/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>19991102</date>
+    <series-id system="pluto">5fa45f446492fa001d027599</series-id>
+    <category>Movie</category>
+    <category>Action</category>
+  </programme>
+  <programme channel="5dcb62e63d4d8f0009f36881" start="20230612200500 +0000" stop="20230612214900 +0000">
+    <title>Aterrizaje forzoso</title>
+    <episode-num system="original-air-date">20050101000000 +0000</episode-num>
+    <desc>Unos jóvenes están celebrando una fiesta a bordo de un avión privado cuando el mismo es tomado por unos secuestradores.</desc>
+    <icon src="https://images.pluto.tv/episodes/5f3fd8c6ad190c001a52ebb3/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20050101</date>
+    <series-id system="pluto">5f3fd8c4ad190c001a52ebab</series-id>
+    <category>Movie</category>
+    <category>Action</category>
+  </programme>
 </tv>
