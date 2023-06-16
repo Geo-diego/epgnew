@@ -2,9 +2,13 @@
   <channel id="Telered Costa Rica">
     <display-name>Telered Costa Rica</display-name>
   </channel>
-  <programme channel="Telered Costa Rica" repeats="daily" byday="*">
-  <title>Salud</title>
-    <start>09:00:00</start>
-    <stop>09:30:00</stop>
-  </programme>  
+  <programme channel="Telered Costa Rica" start="20230616200000 +0000" stop="20230616210000 +0000">
+    <title>Informativo</title>
+  </programme>
+  <programme channel="Telered Costa Rica" start="20230616210000 +0000" stop="20230616220000 +0000">
+    <title>Salud</title>
+  </programme>
+  <programme channel="Telered Costa Rica" start="20230616220000 +0000" stop="20230616223000 +0000">
+    <title>The munsters</title> 
+  </programme>
 </tv>
