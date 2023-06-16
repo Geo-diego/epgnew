@@ -1,11 +1,10 @@
-</tv>
-  <channel id="Telered Costa Rica">
-    <display-name>Telered Costa Rica</display-name>
-  </channel>
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
   <programme>
-    <title>Thundercats</title>
-    <start>18:30</start>
-    <end>19:00</end>
+    <title>The Daily Show</title>
+    <start>10:00</start>
+    <end>11:00</end>
     <repeat>Monday, Tuesday, Wednesday, Thursday, Friday</repeat>
+    <channel>Telered Costa Rica</channel>
   </programme>
 </tv>
