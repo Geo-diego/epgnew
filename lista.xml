@@ -6,7 +6,7 @@
   </channel>
   <programme channel="Telered Costa Rica" repeats="daily" byday="*">
     <title>Ulyses 31</title>
-    <start>20:00:00</start>
-    <stop>20:30:00</stop>
+    <start>08:00:00</start>
+    <stop>08:30:00</stop>
   </programme>
 </tv>
