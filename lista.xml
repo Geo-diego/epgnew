@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><!DOCTYPE tv SYSTEM "xmltv.dtd"><tv generator-info-name="www.matthuisman.nz" generated-ts="1686598307">
   <channel id="Telered Costa Rica">
-    <display-name>Telered Costa Rica</display-name>
+    <display-name>Telesistema</display-name>
   </channel>
-  <programme channel="Telered Costa Rica" start="20230616160000 +0000" stop="20230616170000 +0000">
+  <programme start="16:00:00 -0500" stop="17:00:00 -0500" channel="Telered Costa Rica">
     <title>CHIPS</title>
-  </programme>
-  <programme channel="Telered Costa Rica" start="20230616170000 +0000" stop="20230616180000 +0000">
-    <title>Tarzán</title>
+    <repeat weekday="1,2,3,4,5"/>
   </programme>
 </tv>
